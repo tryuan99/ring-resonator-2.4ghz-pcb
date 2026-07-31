@@ -31,7 +31,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=0
+IsProjectConflictPreventionWarningsEnabled=1
 ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
@@ -59,7 +59,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -87,7 +87,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=RING-STACKUP.PCBDwf
+DocumentPath=RING.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,26 +101,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SNCBRAFD
 
 [Document4]
-DocumentPath=RING-VIEW.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=Titan.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,8 +120,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBCEWIPP
 
-[Document6]
+[Document5]
 DocumentPath=Titan.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FKHDAQVC
+
+[Document6]
+DocumentPath=RING.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,7 +155,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=RING.PcbDoc
+DocumentPath=RING-STACKUP.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,176 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SNCBRAFD
+DocumentUniqueId=LWAUGWFF
+
+[Document8]
+DocumentPath=RING-VIEW.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DKRBHWHT
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\BOM\BOM-RING.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Design Rule Check - RING.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Pick Place\Pick Place for RING.csv
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Pick Place\Pick Place for RING.txt
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\NC Drill\RING.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GM
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\NC Drill\RING.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\PCB 3D Print\RING.png
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\Gerber\RING.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\RING.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\NC Drill\RING.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for ring-resonator-2.4ghz\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

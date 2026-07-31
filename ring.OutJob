@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=trl.OutJob
+Name=ring.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -50,7 +50,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=BOM_PartType
 OutputName2=BOM
 OutputCategory2=Report
-OutputDocumentPath2=TRL.BomDoc
+OutputDocumentPath2=RING.BomDoc
 OutputVariantName2=[No Variations]
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
@@ -64,7 +64,7 @@ Configuration2_Item1=TemplateFilename=
 OutputType3=Assembly
 OutputName3=Assembly Drawings
 OutputCategory3=Assembly
-OutputDocumentPath3=TRL.PcbDoc
+OutputDocumentPath3=RING.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -72,7 +72,7 @@ OutputEnabled3_OutputMedium2=2
 OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.83|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.18|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\tryua\Documents\Altium\dory-x\DORY.PcbDoc
 Configuration3_Name2=OutputConfigurationParameter2
@@ -135,7 +135,7 @@ PcbPrintPreferences3=SubsititueFont_Default=True|SubsititueFont_Serif=True|Subsi
 OutputType4=PCB 3D Print
 OutputName4=PCB 3D Print
 OutputCategory4=Documentation
-OutputDocumentPath4=TRL.PcbDoc
+OutputDocumentPath4=RING.PcbDoc
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
@@ -149,7 +149,7 @@ Configuration4_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45000000|View
 OutputType5=Gerber
 OutputName5=Gerber Files
 OutputCategory5=Fabrication
-OutputDocumentPath5=TRL.PcbDoc
+OutputDocumentPath5=RING.PcbDoc
 OutputVariantName5=
 OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
@@ -162,7 +162,7 @@ Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType6=NC Drill
 OutputName6=NC Drill Files
 OutputCategory6=Fabrication
-OutputDocumentPath6=TRL.PcbDoc
+OutputDocumentPath6=RING.PcbDoc
 OutputVariantName6=
 OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
@@ -175,7 +175,7 @@ Configuration6_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType7=Pick Place
 OutputName7=Generates pick and place files
 OutputCategory7=Assembly
-OutputDocumentPath7=TRL.PcbDoc
+OutputDocumentPath7=RING.PcbDoc
 OutputVariantName7=
 OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
@@ -200,7 +200,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType9=ODB
 OutputName9=ODB++ Files
 OutputCategory9=Fabrication
-OutputDocumentPath9=TRL.PcbDoc
+OutputDocumentPath9=RING.PcbDoc
 OutputVariantName9=
 OutputEnabled9=1
 OutputEnabled9_OutputMedium1=0
@@ -214,7 +214,7 @@ Configuration9_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_
 [PublishSettings]
 OutputFilePath2=C:\Users\tryua\Documents\Altium\bailey\Project Outputs for bailey\PDF\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for trl-2.4ghz
+OutputBasePath2=Project Outputs for ring-resonator-2.4ghz
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
 OutputPathOutputer2=
@@ -239,9 +239,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\tryua\Documents\Altium\trl-2.4ghz\Project Outputs for trl-2.4ghz
+OutputFilePath3=C:\Users\tryua\Documents\Altium\ring-resonator-2.4ghz\Project Outputs for ring-resonator-2.4ghz
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for trl-2.4ghz
+OutputBasePath3=Project Outputs for ring-resonator-2.4ghz
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -254,7 +254,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for trl-2.4ghz
+OutputBasePath4=Project Outputs for ring-resonator-2.4ghz
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -293,7 +293,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\tryua\Documents\Altium\bailey\Project Outputs for bailey\PDF\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\tryua\Documents\Altium\trl-2.4ghz\Project Outputs for trl-2.4ghz
+RelativeOutputPath3=C:\Users\tryua\Documents\Altium\ring-resonator-2.4ghz\Project Outputs for ring-resonator-2.4ghz
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

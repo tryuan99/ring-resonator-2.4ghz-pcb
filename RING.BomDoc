@@ -1,0 +1,18 @@
+|RECORD=BOM|VERSION=6|FILENAME=C:\Users\tryua\Documents\Altium\ring-resonator-2.4ghz\RING.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=31.07.2026|TIME=07:01:57|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=73!Comment=106!Description=139!Designator=146!Quantity=89!Package Size=85!LCSC=142!Manufacturer 1=99!Manufacturer Part Number 1=166!Manufacturer Lifecycle 1=142!Supplier 1=72!Supplier Part Number 1=138!Supplier Unit Price 1=122!Supplier Subtotal 1=116
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=73!Comment=106!Description=139!Designator=146!Quantity=89!Package Size=85!LCSC=142!Manufacturer 1=99!Manufacturer Part Number 1=166!Manufacturer Lifecycle 1=142!Supplier 1=72!Supplier Part Number 1=138!Supplier Unit Price 1=122!Supplier Subtotal 1=116|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=99!Manufacturer Part Number 1=166!Manufacturer Lifecycle 1=142!Supplier 1=72!Supplier Part Number 1=138!Supplier Unit Price 1=122!Supplier Subtotal 1=116|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=99!Manufacturer Part Number 1=166!Manufacturer Lifecycle 1=142!Supplier 1=72!Supplier Part Number 1=138!Supplier Unit Price 1=122!Supplier Subtotal 1=116
+|RECORD=CustomColumns|CUSTOMCOLUMNS=LCSC=142
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=ExternalCheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Titan.SchLib\CONN_RF_SMA|DESIGNITEMID=CONN_RF_SMA|ITEMSOURCE=Titan.SchLib|STATUS=Unknown|DESCRIPTION=Connector RF SMA Generic|USERCOMMENTS=KH-SMA-KE8-G|NOTE=|LINENUMBER=1|SELECTEDPARAMETERSHASH="Connector RF SMA Generic",KH-SMA-KE8-G|COMPONENTPARAMETERS=Comment=KH-SMA-KE8-G,"Component Kind=Standard","Description=Connector RF SMA Generic",Footprint=KH-SMA-KE8-G,"Ibis Model=",LCSC=C530661,"Library Name=Titan.SchLib","Library Reference=CONN_RF_SMA","Manufacturer=Shenzhen Kinghelm Electron Co","Manufacturer Part Number=KH-SMA-KE8-G","Maximum Frequency=",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
